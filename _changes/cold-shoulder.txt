@@ -1,0 +1,6 @@
+mods/data/cold-shoulder/cold-shoulder-hard.json
+mods/data/cold-shoulder/cold-shoulder.json
+mods/songs/cold-shoulder/Voices.ogg
+mods/songs/cold-shoulder/Inst.ogg
+mods/songs/cold-shoulder/voices.ogg
+mods/songs/cold-shoulder/inst.ogg

@@ -1,0 +1,6 @@
+mods/data/squad/squad-hard.json
+mods/data/squad/squad.json
+mods/songs/squad/Voices.ogg
+mods/songs/squad/Inst.ogg
+mods/songs/squad/voices.ogg
+mods/songs/squad/inst.ogg

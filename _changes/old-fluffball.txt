@@ -1,0 +1,5 @@
+mods/data/old-fluffball/old-fluffball-old.json
+mods/songs/old-fluffball/Voices.ogg
+mods/songs/old-fluffball/Inst.ogg
+mods/songs/old-fluffball/voices.ogg
+mods/songs/old-fluffball/inst.ogg

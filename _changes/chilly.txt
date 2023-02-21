@@ -1,0 +1,7 @@
+mods/data/chilly/chilly-extrakey.json
+mods/data/chilly/chilly-hard.json
+mods/data/chilly/chilly.json
+mods/songs/chilly/Voices.ogg
+mods/songs/chilly/Inst.ogg
+mods/songs/chilly/voices.ogg
+mods/songs/chilly/inst.ogg

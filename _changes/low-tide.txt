@@ -1,0 +1,5 @@
+mods/data/low-tide/low-tide-hard.json
+mods/songs/low-tide/Voices.ogg
+mods/songs/low-tide/Inst.ogg
+mods/songs/low-tide/voices.ogg
+mods/songs/low-tide/inst.ogg

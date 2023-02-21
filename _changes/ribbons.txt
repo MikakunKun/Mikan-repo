@@ -1,0 +1,6 @@
+mods/data/ribbons/ribbons-hard.json
+mods/data/ribbons/ribbons.json
+mods/songs/ribbons/Voices.ogg
+mods/songs/ribbons/Inst.ogg
+mods/songs/ribbons/voices.ogg
+mods/songs/ribbons/inst.ogg

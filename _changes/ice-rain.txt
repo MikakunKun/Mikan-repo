@@ -1,0 +1,7 @@
+mods/data/ice-rain/ice-rain-extrakey.json
+mods/data/ice-rain/ice-rain-hard.json
+mods/data/ice-rain/ice-rain.json
+mods/songs/ice-rain/Voices.ogg
+mods/songs/ice-rain/Inst.ogg
+mods/songs/ice-rain/voices.ogg
+mods/songs/ice-rain/inst.ogg
