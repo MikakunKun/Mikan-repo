@@ -1,6 +1,5 @@
 mods/data/euphoria/euphoria-4k.json
 mods/data/euphoria/euphoria-6k.json
-mods/data/euphoria/euphoria-pokemon-battle-4k.json
 mods/songs/euphoria/Voices.ogg
 mods/songs/euphoria/Inst.ogg
 mods/songs/euphoria/voices.ogg
