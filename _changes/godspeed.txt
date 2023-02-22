@@ -1,0 +1,8 @@
+mods/data/godspeed/events.json
+mods/data/godspeed/godspeed-canon.json
+mods/data/godspeed/godspeed-mania.json
+mods/data/godspeed/godspeed-true.json
+mods/songs/godspeed/Voices.ogg
+mods/songs/godspeed/Inst.ogg
+mods/songs/godspeed/voices.ogg
+mods/songs/godspeed/inst.ogg

@@ -1,0 +1,5 @@
+mods/data/godspeed-god/godspeed-god.json
+mods/songs/godspeed-god/Voices.ogg
+mods/songs/godspeed-god/Inst.ogg
+mods/songs/godspeed-god/voices.ogg
+mods/songs/godspeed-god/inst.ogg
