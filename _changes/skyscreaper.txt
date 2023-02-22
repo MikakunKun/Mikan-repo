@@ -1,0 +1,7 @@
+mods/data/skyscreaper/dialogue.json
+mods/data/skyscreaper/events.json
+mods/data/skyscreaper/skyscreaper.json
+mods/songs/skyscreaper/Voices.ogg
+mods/songs/skyscreaper/Inst.ogg
+mods/songs/skyscreaper/voices.ogg
+mods/songs/skyscreaper/inst.ogg

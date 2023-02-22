@@ -1,0 +1,5 @@
+mods/data/anticheat/anticheat-challenge.json
+mods/songs/anticheat/Voices.ogg
+mods/songs/anticheat/Inst.ogg
+mods/songs/anticheat/voices.ogg
+mods/songs/anticheat/inst.ogg
