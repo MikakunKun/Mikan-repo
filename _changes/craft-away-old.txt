@@ -1,0 +1,7 @@
+mods/data/craft-away-old/craft-away-old-hard.json
+mods/data/craft-away-old/craft-away-old-hardcore.json
+mods/data/craft-away-old/craft-away-old.json
+mods/songs/craft-away-old/Voices.ogg
+mods/songs/craft-away-old/Inst.ogg
+mods/songs/craft-away-old/voices.ogg
+mods/songs/craft-away-old/inst.ogg
