@@ -1,0 +1,6 @@
+mods/data/cosmic-confrontance-spam/cosmic-confrontance-spam-10k.json
+mods/data/cosmic-confrontance-spam/cosmic-confrontance-spam-4k.json
+mods/songs/cosmic-confrontance-spam/Voices.ogg
+mods/songs/cosmic-confrontance-spam/Inst.ogg
+mods/songs/cosmic-confrontance-spam/voices.ogg
+mods/songs/cosmic-confrontance-spam/inst.ogg
