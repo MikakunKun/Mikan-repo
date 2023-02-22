@@ -1,0 +1,6 @@
+mods/data/cosmic-cessation/cosmic-cessation-4k.json
+mods/data/cosmic-cessation/cosmic-cessation-9k.json
+mods/songs/cosmic-cessation/Voices.ogg
+mods/songs/cosmic-cessation/Inst.ogg
+mods/songs/cosmic-cessation/voices.ogg
+mods/songs/cosmic-cessation/inst.ogg
