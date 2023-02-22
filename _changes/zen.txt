@@ -1,0 +1,8 @@
+mods/data/zen/dialogue.json
+mods/data/zen/zen-canon.json
+mods/data/zen/zen-easy.json
+mods/data/zen/zen-hell.json
+mods/songs/zen/Voices.ogg
+mods/songs/zen/Inst.ogg
+mods/songs/zen/voices.ogg
+mods/songs/zen/inst.ogg

@@ -1,0 +1,6 @@
+mods/data/summit/events.json
+mods/data/summit/summit-hard.json
+mods/songs/summit/Voices.ogg
+mods/songs/summit/Inst.ogg
+mods/songs/summit/voices.ogg
+mods/songs/summit/inst.ogg

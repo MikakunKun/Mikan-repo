@@ -1,0 +1,6 @@
+mods/data/strategize/strategize-4k.json
+mods/data/strategize/strategize-9k.json
+mods/songs/strategize/Voices.ogg
+mods/songs/strategize/Inst.ogg
+mods/songs/strategize/voices.ogg
+mods/songs/strategize/inst.ogg

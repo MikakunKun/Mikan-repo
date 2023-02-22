@@ -1,0 +1,9 @@
+mods/data/spacial-collapsed/dialogue.json
+mods/data/spacial-collapsed/dialogue2.json
+mods/data/spacial-collapsed/spacial-collapsed-canon.json
+mods/data/spacial-collapsed/spacial-collapsed-easy.json
+mods/data/spacial-collapsed/spacial-collapsed-hell.json
+mods/songs/spacial-collapsed/Voices.ogg
+mods/songs/spacial-collapsed/Inst.ogg
+mods/songs/spacial-collapsed/voices.ogg
+mods/songs/spacial-collapsed/inst.ogg

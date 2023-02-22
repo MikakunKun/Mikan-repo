@@ -1,0 +1,8 @@
+mods/data/surge/dialogue.json
+mods/data/surge/surge-canon.json
+mods/data/surge/surge-easy.json
+mods/data/surge/surge-hell.json
+mods/songs/surge/Voices.ogg
+mods/songs/surge/Inst.ogg
+mods/songs/surge/voices.ogg
+mods/songs/surge/inst.ogg
