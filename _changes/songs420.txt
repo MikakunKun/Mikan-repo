@@ -20,3 +20,4 @@ mods/weeks/t.json
 mods/weeks/w.json
 mods/weeks/z.json
 mods/weeks/veefunkin.json
+mods/weeks/changed.json

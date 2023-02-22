@@ -1,0 +1,5 @@
+mods/data/true-ending/true-ending-hard.json
+mods/songs/true-ending/Voices.ogg
+mods/songs/true-ending/Inst.ogg
+mods/songs/true-ending/voices.ogg
+mods/songs/true-ending/inst.ogg
