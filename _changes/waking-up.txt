@@ -1,0 +1,5 @@
+mods/data/waking-up/waking-up-hard.json
+mods/songs/waking-up/Voices.ogg
+mods/songs/waking-up/Inst.ogg
+mods/songs/waking-up/voices.ogg
+mods/songs/waking-up/inst.ogg

@@ -1,0 +1,5 @@
+mods/data/the-student/the-student-hard.json
+mods/songs/the-student/Voices.ogg
+mods/songs/the-student/Inst.ogg
+mods/songs/the-student/voices.ogg
+mods/songs/the-student/inst.ogg

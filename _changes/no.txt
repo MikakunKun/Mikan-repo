@@ -1,0 +1,5 @@
+mods/data/no/no-hard.json
+mods/songs/no/Voices.ogg
+mods/songs/no/Inst.ogg
+mods/songs/no/voices.ogg
+mods/songs/no/inst.ogg

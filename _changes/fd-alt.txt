@@ -1,0 +1,5 @@
+mods/data/fd-alt/fd-alt-hard.json
+mods/songs/fd-alt/Voices.ogg
+mods/songs/fd-alt/Inst.ogg
+mods/songs/fd-alt/voices.ogg
+mods/songs/fd-alt/inst.ogg

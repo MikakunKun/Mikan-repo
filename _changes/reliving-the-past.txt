@@ -1,0 +1,5 @@
+mods/data/reliving-the-past/reliving-the-past-hard.json
+mods/songs/reliving-the-past/Voices.ogg
+mods/songs/reliving-the-past/Inst.ogg
+mods/songs/reliving-the-past/voices.ogg
+mods/songs/reliving-the-past/inst.ogg

@@ -1,0 +1,5 @@
+mods/data/snep/snep-hard.json
+mods/songs/snep/Voices.ogg
+mods/songs/snep/Inst.ogg
+mods/songs/snep/voices.ogg
+mods/songs/snep/inst.ogg

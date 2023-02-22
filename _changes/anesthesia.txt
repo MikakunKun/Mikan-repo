@@ -1,0 +1,6 @@
+mods/data/anesthesia/anesthesia-hard.json
+mods/data/anesthesia/events.json
+mods/songs/anesthesia/Voices.ogg
+mods/songs/anesthesia/Inst.ogg
+mods/songs/anesthesia/voices.ogg
+mods/songs/anesthesia/inst.ogg

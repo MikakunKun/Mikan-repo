@@ -1,0 +1,6 @@
+mods/data/last-checkup/events.json
+mods/data/last-checkup/last-checkup-hard.json
+mods/songs/last-checkup/Voices.ogg
+mods/songs/last-checkup/Inst.ogg
+mods/songs/last-checkup/voices.ogg
+mods/songs/last-checkup/inst.ogg

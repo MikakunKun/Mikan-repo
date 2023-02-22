@@ -1,0 +1,5 @@
+mods/data/nothing/nothing.json
+mods/songs/nothing/Voices.ogg
+mods/songs/nothing/Inst.ogg
+mods/songs/nothing/voices.ogg
+mods/songs/nothing/inst.ogg

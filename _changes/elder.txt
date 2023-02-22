@@ -1,0 +1,5 @@
+mods/data/elder/elder-hard.json
+mods/songs/elder/Voices.ogg
+mods/songs/elder/Inst.ogg
+mods/songs/elder/voices.ogg
+mods/songs/elder/inst.ogg

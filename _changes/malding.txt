@@ -1,0 +1,5 @@
+mods/data/malding/malding-hard.json
+mods/songs/malding/Voices.ogg
+mods/songs/malding/Inst.ogg
+mods/songs/malding/voices.ogg
+mods/songs/malding/inst.ogg

@@ -1,0 +1,5 @@
+mods/data/ms-alt/ms-alt-hard.json
+mods/songs/ms-alt/Voices.ogg
+mods/songs/ms-alt/Inst.ogg
+mods/songs/ms-alt/voices.ogg
+mods/songs/ms-alt/inst.ogg

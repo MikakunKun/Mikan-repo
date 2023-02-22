@@ -1,0 +1,5 @@
+mods/data/final-draft/final-draft-hard.json
+mods/songs/final-draft/Voices.ogg
+mods/songs/final-draft/Inst.ogg
+mods/songs/final-draft/voices.ogg
+mods/songs/final-draft/inst.ogg

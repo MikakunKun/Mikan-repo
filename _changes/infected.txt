@@ -1,0 +1,5 @@
+mods/data/infected/infected-hard.json
+mods/songs/infected/Voices.ogg
+mods/songs/infected/Inst.ogg
+mods/songs/infected/voices.ogg
+mods/songs/infected/inst.ogg

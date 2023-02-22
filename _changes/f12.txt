@@ -1,0 +1,5 @@
+mods/data/f12/f12-hard.json
+mods/songs/f12/Voices.ogg
+mods/songs/f12/Inst.ogg
+mods/songs/f12/voices.ogg
+mods/songs/f12/inst.ogg

@@ -1,0 +1,5 @@
+mods/data/br-alt/br-alt-hard.json
+mods/songs/br-alt/Voices.ogg
+mods/songs/br-alt/Inst.ogg
+mods/songs/br-alt/voices.ogg
+mods/songs/br-alt/inst.ogg

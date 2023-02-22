@@ -1,0 +1,6 @@
+mods/data/wu-alt/events.json
+mods/data/wu-alt/wu-alt-hard.json
+mods/songs/wu-alt/Voices.ogg
+mods/songs/wu-alt/Inst.ogg
+mods/songs/wu-alt/voices.ogg
+mods/songs/wu-alt/inst.ogg

@@ -1,0 +1,5 @@
+mods/data/mad-scientist/mad-scientist-hard.json
+mods/songs/mad-scientist/Voices.ogg
+mods/songs/mad-scientist/Inst.ogg
+mods/songs/mad-scientist/voices.ogg
+mods/songs/mad-scientist/inst.ogg

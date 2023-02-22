@@ -1,0 +1,5 @@
+mods/data/drippin-boss/drippin-boss-hard.json
+mods/songs/drippin-boss/Voices.ogg
+mods/songs/drippin-boss/Inst.ogg
+mods/songs/drippin-boss/voices.ogg
+mods/songs/drippin-boss/inst.ogg

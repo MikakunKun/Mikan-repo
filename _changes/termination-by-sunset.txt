@@ -1,0 +1,5 @@
+mods/data/termination-by-sunset/termination-by-sunset-hard.json
+mods/songs/termination-by-sunset/Voices.ogg
+mods/songs/termination-by-sunset/Inst.ogg
+mods/songs/termination-by-sunset/voices.ogg
+mods/songs/termination-by-sunset/inst.ogg

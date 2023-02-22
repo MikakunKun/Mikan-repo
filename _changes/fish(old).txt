@@ -1,0 +1,6 @@
+mods/data/fish(old)/events.json
+mods/data/fish(old)/fish-hard.json
+mods/songs/fish(old)/Voices.ogg
+mods/songs/fish(old)/Inst.ogg
+mods/songs/fish(old)/voices.ogg
+mods/songs/fish(old)/inst.ogg

@@ -1,0 +1,5 @@
+mods/data/brain-rot/brain-rot-hard.json
+mods/songs/brain-rot/Voices.ogg
+mods/songs/brain-rot/Inst.ogg
+mods/songs/brain-rot/voices.ogg
+mods/songs/brain-rot/inst.ogg

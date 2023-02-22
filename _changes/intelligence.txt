@@ -1,0 +1,5 @@
+mods/data/intelligence/intelligence-hard.json
+mods/songs/intelligence/Voices.ogg
+mods/songs/intelligence/Inst.ogg
+mods/songs/intelligence/voices.ogg
+mods/songs/intelligence/inst.ogg
