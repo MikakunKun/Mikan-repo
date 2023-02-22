@@ -7,5 +7,6 @@ mods/weeks/i.json
 mods/weeks/k.json
 mods/weeks/l.json
 mods/weeks/o.json
+mods/weeks/p.json
 mods/weeks/r.json
 mods/weeks/s.json
