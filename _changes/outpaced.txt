@@ -1,0 +1,6 @@
+mods/data/outpaced/outpaced-4k.json
+mods/data/outpaced/outpaced-old4k.json
+mods/songs/outpaced/Voices.ogg
+mods/songs/outpaced/Inst.ogg
+mods/songs/outpaced/voices.ogg
+mods/songs/outpaced/inst.ogg
