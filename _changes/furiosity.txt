@@ -1,0 +1,6 @@
+mods/data/furiosity/events.json
+mods/data/furiosity/furiosity.json
+mods/songs/furiosity/Voices.ogg
+mods/songs/furiosity/Inst.ogg
+mods/songs/furiosity/voices.ogg
+mods/songs/furiosity/inst.ogg

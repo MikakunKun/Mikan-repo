@@ -1,0 +1,5 @@
+mods/data/oh-no/oh-no.json
+mods/songs/oh-no/Voices.ogg
+mods/songs/oh-no/Inst.ogg
+mods/songs/oh-no/voices.ogg
+mods/songs/oh-no/inst.ogg

@@ -1,0 +1,6 @@
+mods/data/thearchy/thearchy-hell.json
+mods/data/thearchy/thearchy.json
+mods/songs/thearchy/Voices.ogg
+mods/songs/thearchy/Inst.ogg
+mods/songs/thearchy/voices.ogg
+mods/songs/thearchy/inst.ogg

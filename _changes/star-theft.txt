@@ -1,0 +1,7 @@
+mods/data/star-theft/dialogue.json
+mods/data/star-theft/events.json
+mods/data/star-theft/star-theft.json
+mods/songs/star-theft/Voices.ogg
+mods/songs/star-theft/Inst.ogg
+mods/songs/star-theft/voices.ogg
+mods/songs/star-theft/inst.ogg

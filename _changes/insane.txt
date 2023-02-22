@@ -1,0 +1,7 @@
+mods/data/insane/events.json
+mods/data/insane/insane-hell.json
+mods/data/insane/insane.json
+mods/songs/insane/Voices.ogg
+mods/songs/insane/Inst.ogg
+mods/songs/insane/voices.ogg
+mods/songs/insane/inst.ogg

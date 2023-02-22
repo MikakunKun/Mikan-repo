@@ -1,0 +1,7 @@
+mods/data/og-blocked/dialogue.json
+mods/data/og-blocked/events.json
+mods/data/og-blocked/og-blocked.json
+mods/songs/og-blocked/Voices.ogg
+mods/songs/og-blocked/Inst.ogg
+mods/songs/og-blocked/voices.ogg
+mods/songs/og-blocked/inst.ogg

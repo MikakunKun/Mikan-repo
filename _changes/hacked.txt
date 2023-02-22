@@ -1,0 +1,6 @@
+mods/data/hacked/hacked-exploitation.json
+mods/data/hacked/ohacked-exploitation.json
+mods/songs/hacked/Voices.ogg
+mods/songs/hacked/Inst.ogg
+mods/songs/hacked/voices.ogg
+mods/songs/hacked/inst.ogg

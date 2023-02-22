@@ -1,0 +1,8 @@
+mods/data/opposition/dialogue.json
+mods/data/opposition/events.json
+mods/data/opposition/opposition-hell.json
+mods/data/opposition/opposition.json
+mods/songs/opposition/Voices.ogg
+mods/songs/opposition/Inst.ogg
+mods/songs/opposition/voices.ogg
+mods/songs/opposition/inst.ogg

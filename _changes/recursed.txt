@@ -1,0 +1,6 @@
+mods/data/recursed/recursed-bullshit.json
+mods/data/recursed/recursed.json
+mods/songs/recursed/Voices.ogg
+mods/songs/recursed/Inst.ogg
+mods/songs/recursed/voices.ogg
+mods/songs/recursed/inst.ogg

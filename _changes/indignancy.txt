@@ -1,0 +1,7 @@
+mods/data/indignancy/dialogue.json
+mods/data/indignancy/events.json
+mods/data/indignancy/indignancy.json
+mods/songs/indignancy/Voices.ogg
+mods/songs/indignancy/Inst.ogg
+mods/songs/indignancy/voices.ogg
+mods/songs/indignancy/inst.ogg
