@@ -1,0 +1,5 @@
+mods/data/ember-shiny/ember-shiny-hard.json
+mods/songs/ember-shiny/Voices.ogg
+mods/songs/ember-shiny/Inst.ogg
+mods/songs/ember-shiny/voices.ogg
+mods/songs/ember-shiny/inst.ogg
