@@ -1,0 +1,7 @@
+mods/data/skyscraper/dialogue.json
+mods/data/skyscraper/events.json
+mods/data/skyscraper/skyscraper.json
+mods/songs/skyscraper/Voices.ogg
+mods/songs/skyscraper/Inst.ogg
+mods/songs/skyscraper/voices.ogg
+mods/songs/skyscraper/inst.ogg
