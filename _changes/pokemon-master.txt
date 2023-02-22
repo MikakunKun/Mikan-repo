@@ -1,0 +1,5 @@
+mods/data/pokemon-master/pokemon-master-hard.json
+mods/songs/pokemon-master/Voices.ogg
+mods/songs/pokemon-master/Inst.ogg
+mods/songs/pokemon-master/voices.ogg
+mods/songs/pokemon-master/inst.ogg
