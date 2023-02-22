@@ -21,4 +21,5 @@ mods/weeks/w.json
 mods/weeks/z.json
 mods/weeks/changed.json
 mods/weeks/funkmon.json
+mods/weeks/swampert.json
 mods/weeks/veefunkin.json
