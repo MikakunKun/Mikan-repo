@@ -1,0 +1,5 @@
+mods/data/compatibility/compatibility.json
+mods/songs/compatibility/Voices.ogg
+mods/songs/compatibility/Inst.ogg
+mods/songs/compatibility/voices.ogg
+mods/songs/compatibility/inst.ogg

@@ -1,0 +1,6 @@
+mods/data/8-28-63/8-28-63.json
+mods/data/8-28-63/events.json
+mods/songs/8-28-63/Voices.ogg
+mods/songs/8-28-63/Inst.ogg
+mods/songs/8-28-63/voices.ogg
+mods/songs/8-28-63/inst.ogg
