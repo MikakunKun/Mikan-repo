@@ -9785,7 +9785,7 @@
 		"gfVersion": "where-she-go",
 		"needsDadVoices": true,
 		"stage": "petalburgwoods",
-		"needsVoices": false,
+		"needsVoices": true,
 		"bpm": 160,
 		"HardEvent": false
 	}

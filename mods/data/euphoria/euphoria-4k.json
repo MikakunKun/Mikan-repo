@@ -8827,7 +8827,7 @@
 		],
 		"gfVersion": "spinda-gf",
 		"needsDadVoices": true,
-		"needsVoices": false,
+		"needsVoices": true,
 		"stage": "stage",
 		"HardEvent": false,
 		"bpm": 160
