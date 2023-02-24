@@ -1,0 +1,8 @@
+mods/data/retired/retired-hardcore.json
+mods/data/retired/retired-peaceful.json
+mods/data/retired/retired-ultrahardcore.json
+mods/data/retired/retired.json
+mods/songs/retired/Voices.ogg
+mods/songs/retired/Inst.ogg
+mods/songs/retired/voices.ogg
+mods/songs/retired/inst.ogg
