@@ -1,0 +1,6 @@
+mods/data/double-trouble-blackout/dialogue.json
+mods/data/double-trouble-blackout/double-trouble-blackout.json
+mods/songs/double-trouble-blackout/Voices.ogg
+mods/songs/double-trouble-blackout/Inst.ogg
+mods/songs/double-trouble-blackout/voices.ogg
+mods/songs/double-trouble-blackout/inst.ogg

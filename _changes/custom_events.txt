@@ -1,0 +1,4 @@
+mods/songs/custom_events/Voices.ogg
+mods/songs/custom_events/Inst.ogg
+mods/songs/custom_events/voices.ogg
+mods/songs/custom_events/inst.ogg

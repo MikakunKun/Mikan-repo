@@ -1,0 +1,4 @@
+mods/songs/put this in lol/Voices.ogg
+mods/songs/put this in lol/Inst.ogg
+mods/songs/put this in lol/voices.ogg
+mods/songs/put this in lol/inst.ogg

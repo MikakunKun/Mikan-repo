@@ -1,0 +1,6 @@
+mods/data/report-edd/events.json
+mods/data/report-edd/report-edd-hard.json
+mods/songs/report-edd/Voices.ogg
+mods/songs/report-edd/Inst.ogg
+mods/songs/report-edd/voices.ogg
+mods/songs/report-edd/inst.ogg

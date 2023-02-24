@@ -1,0 +1,7 @@
+mods/data/betrayal-blackout/betrayal-blackout-blackout.json
+mods/data/betrayal-blackout/dialogue.json
+mods/data/betrayal-blackout/events.json
+mods/songs/betrayal-blackout/Voices.ogg
+mods/songs/betrayal-blackout/Inst.ogg
+mods/songs/betrayal-blackout/voices.ogg
+mods/songs/betrayal-blackout/inst.ogg
