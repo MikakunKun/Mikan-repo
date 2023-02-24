@@ -1,0 +1,7 @@
+mods/data/really-happy-2022/events.json
+mods/data/really-happy-2022/really-happy-2022-hard-old-unfinished.json
+mods/data/really-happy-2022/really-happy-2022-hard.json
+mods/songs/really-happy-2022/Voices.ogg
+mods/songs/really-happy-2022/Inst.ogg
+mods/songs/really-happy-2022/voices.ogg
+mods/songs/really-happy-2022/inst.ogg

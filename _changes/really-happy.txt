@@ -1,7 +1,0 @@
-mods/data/really-happy/events.json
-mods/data/really-happy/really-happy-hard-old unfinished.json
-mods/data/really-happy/really-happy-hard.json
-mods/songs/really-happy/Voices.ogg
-mods/songs/really-happy/Inst.ogg
-mods/songs/really-happy/voices.ogg
-mods/songs/really-happy/inst.ogg
