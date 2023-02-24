@@ -1,0 +1,7 @@
+mods/data/multivers-conqueror/multivers-conqueror-4k-mania.json
+mods/data/multivers-conqueror/multivers-conqueror-unnerfed.json
+mods/data/multivers-conqueror/multivers-conqueror-zephyrus.json
+mods/songs/multivers-conqueror/Voices.ogg
+mods/songs/multivers-conqueror/Inst.ogg
+mods/songs/multivers-conqueror/voices.ogg
+mods/songs/multivers-conqueror/inst.ogg
