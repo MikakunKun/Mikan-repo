@@ -1,0 +1,7 @@
+mods/data/demigodly-storm/demigodly-storm-4k-mania.json
+mods/data/demigodly-storm/demigodly-storm-hard.json
+mods/data/demigodly-storm/demigodly-storm-zephyrus.json
+mods/songs/demigodly-storm/Voices.ogg
+mods/songs/demigodly-storm/Inst.ogg
+mods/songs/demigodly-storm/voices.ogg
+mods/songs/demigodly-storm/inst.ogg

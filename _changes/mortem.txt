@@ -1,0 +1,7 @@
+mods/data/mortem/events.json
+mods/data/mortem/mortem-4k-mania.json
+mods/data/mortem/mortem-hard.json
+mods/songs/mortem/Voices.ogg
+mods/songs/mortem/Inst.ogg
+mods/songs/mortem/voices.ogg
+mods/songs/mortem/inst.ogg
