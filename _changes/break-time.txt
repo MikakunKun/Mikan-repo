@@ -1,0 +1,5 @@
+mods/data/break-time/break-time.json
+mods/songs/break-time/Voices.ogg
+mods/songs/break-time/Inst.ogg
+mods/songs/break-time/voices.ogg
+mods/songs/break-time/inst.ogg

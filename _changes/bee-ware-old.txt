@@ -1,0 +1,5 @@
+mods/data/bee-ware-old/bee-ware-old-hard.json
+mods/songs/bee-ware-old/Voices.ogg
+mods/songs/bee-ware-old/Inst.ogg
+mods/songs/bee-ware-old/voices.ogg
+mods/songs/bee-ware-old/inst.ogg
