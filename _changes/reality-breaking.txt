@@ -1,6 +1,5 @@
 mods/data/reality-breaking/dialogue.json
 mods/data/reality-breaking/events.json
-mods/data/reality-breaking/reality-breaking-old.json
 mods/data/reality-breaking/reality-breaking.json
 mods/songs/reality-breaking/Voices.ogg
 mods/songs/reality-breaking/Inst.ogg
