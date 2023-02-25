@@ -1,0 +1,5 @@
+mods/data/steves/steves.json
+mods/songs/steves/Voices.ogg
+mods/songs/steves/Inst.ogg
+mods/songs/steves/voices.ogg
+mods/songs/steves/inst.ogg
