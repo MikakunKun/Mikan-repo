@@ -1,0 +1,5 @@
+mods/data/intense-ahp-spam/intense-ahp-spam-10k.json
+mods/songs/intense-ahp-spam/Voices.ogg
+mods/songs/intense-ahp-spam/Inst.ogg
+mods/songs/intense-ahp-spam/voices.ogg
+mods/songs/intense-ahp-spam/inst.ogg
