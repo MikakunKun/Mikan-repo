@@ -1,0 +1,7 @@
+mods/data/cheating-remix/cheating-remix-hell.json
+mods/data/cheating-remix/cheating-remix.json
+mods/data/cheating-remix/events.json
+mods/songs/cheating-remix/Voices.ogg
+mods/songs/cheating-remix/Inst.ogg
+mods/songs/cheating-remix/voices.ogg
+mods/songs/cheating-remix/inst.ogg

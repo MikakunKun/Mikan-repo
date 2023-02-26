@@ -1,0 +1,5 @@
+mods/data/unfairness/unfairness.json
+mods/songs/unfairness/Voices.ogg
+mods/songs/unfairness/Inst.ogg
+mods/songs/unfairness/voices.ogg
+mods/songs/unfairness/inst.ogg

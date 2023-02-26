@@ -1,0 +1,5 @@
+mods/data/unfairness-extrakeys/unfairness-extrakeys.json
+mods/songs/unfairness-extrakeys/Voices.ogg
+mods/songs/unfairness-extrakeys/Inst.ogg
+mods/songs/unfairness-extrakeys/voices.ogg
+mods/songs/unfairness-extrakeys/inst.ogg

@@ -176,8 +176,8 @@
 					[
 						9600,
 						5,
-						0,
-						"Tricky Death Note"
+						525,
+						"Death Note"
 					]
 				],
 				"mustHitSection": true
@@ -237,8 +237,8 @@
 					[
 						10800,
 						7,
-						0,
-						"Tricky Death Note"
+						525,
+						"Death Note"
 					]
 				],
 				"mustHitSection": true
@@ -310,8 +310,8 @@
 					[
 						12000,
 						3,
-						0,
-						"Tricky Death Note"
+						525,
+						"Death Note"
 					]
 				],
 				"mustHitSection": true
@@ -377,20 +377,20 @@
 					[
 						13200,
 						6,
-						0,
-						"Tricky Death Note"
+						525,
+						"Death Note"
 					],
 					[
 						14100,
 						3,
 						0,
-						"Tricky Death Note"
+						"Death Note"
 					],
 					[
 						14100,
 						5,
 						0,
-						"Tricky Death Note"
+						"Death Note"
 					]
 				],
 				"mustHitSection": true
@@ -939,13 +939,13 @@
 						24300,
 						7,
 						0,
-						"Tricky Death Note"
+						"Death Note"
 					],
 					[
 						25050,
 						3,
 						0,
-						"Tricky Death Note"
+						"Death Note"
 					]
 				],
 				"mustHitSection": true
@@ -994,13 +994,13 @@
 						25575,
 						4,
 						0,
-						"Tricky Death Note"
+						"Death Note"
 					],
 					[
 						26250,
 						5,
 						0,
-						"Tricky Death Note"
+						"Death Note"
 					]
 				],
 				"mustHitSection": true
@@ -1055,7 +1055,7 @@
 						27225,
 						3,
 						0,
-						"Tricky Death Note"
+						"Death Note"
 					]
 				],
 				"mustHitSection": true
@@ -1110,13 +1110,13 @@
 						27900,
 						8,
 						0,
-						"Tricky Death Note"
+						"Death Note"
 					],
 					[
 						28350,
 						5,
 						0,
-						"Tricky Death Note"
+						"Death Note"
 					]
 				],
 				"mustHitSection": true
@@ -1415,19 +1415,19 @@
 						33600,
 						0,
 						0,
-						"Tricky Death Note"
+						"Death Note"
 					],
 					[
 						34050,
 						5,
 						0,
-						"Tricky Death Note"
+						"Death Note"
 					],
 					[
 						34650,
 						2,
 						0,
-						"Tricky Death Note"
+						"Death Note"
 					]
 				],
 				"mustHitSection": true
@@ -1524,7 +1524,7 @@
 						35625,
 						6,
 						0,
-						"Tricky Death Note"
+						"Death Note"
 					]
 				],
 				"mustHitSection": true
@@ -1724,7 +1724,7 @@
 						38025,
 						11,
 						0,
-						"Tricky Death Note"
+						"Death Note"
 					]
 				],
 				"mustHitSection": false
@@ -2012,13 +2012,13 @@
 						41250,
 						3,
 						0,
-						"Tricky Death Note"
+						"Death Note"
 					],
 					[
 						41700,
 						5,
 						0,
-						"Tricky Death Note"
+						"Death Note"
 					]
 				],
 				"typeOfSection": 0,
@@ -2112,13 +2112,13 @@
 						42300,
 						2,
 						0,
-						"Tricky Death Note"
+						"Death Note"
 					],
 					[
 						42600,
 						4,
-						0,
-						"Tricky Death Note"
+						225,
+						"Death Note"
 					]
 				],
 				"typeOfSection": 0,
@@ -2176,13 +2176,13 @@
 						43350,
 						8,
 						0,
-						"Tricky Death Note"
+						"Death Note"
 					],
 					[
 						43950,
 						3,
 						0,
-						"Tricky Death Note"
+						"Death Note"
 					]
 				],
 				"typeOfSection": 0,
@@ -2246,13 +2246,13 @@
 						44700,
 						4,
 						0,
-						"Tricky Death Note"
+						"Death Note"
 					],
 					[
 						45300,
 						0,
 						0,
-						"Tricky Death Note"
+						"Death Note"
 					]
 				],
 				"typeOfSection": 0,
@@ -2364,25 +2364,25 @@
 						45600,
 						16,
 						0,
-						"Tricky Death Note"
+						"Death Note"
 					],
 					[
 						46050,
 						11,
 						0,
-						"Tricky Death Note"
+						"Death Note"
 					],
 					[
 						46350,
 						15,
 						0,
-						"Tricky Death Note"
+						"Death Note"
 					],
 					[
 						46650,
 						13,
 						0,
-						"Tricky Death Note"
+						"Death Note"
 					]
 				],
 				"typeOfSection": 0,
@@ -2494,25 +2494,25 @@
 						46950,
 						14,
 						0,
-						"Tricky Death Note"
+						"Death Note"
 					],
 					[
 						47250,
 						12,
 						0,
-						"Tricky Death Note"
+						"Death Note"
 					],
 					[
 						47550,
 						17,
 						0,
-						"Tricky Death Note"
+						"Death Note"
 					],
 					[
 						47850,
 						11,
 						0,
-						"Tricky Death Note"
+						"Death Note"
 					]
 				],
 				"typeOfSection": 0,
@@ -2824,13 +2824,13 @@
 						50850,
 						12,
 						0,
-						"Tricky Death Note"
+						"Death Note"
 					],
 					[
 						51300,
 						14,
 						0,
-						"Tricky Death Note"
+						"Death Note"
 					]
 				],
 				"typeOfSection": 0,
@@ -2924,13 +2924,13 @@
 						51900,
 						12,
 						0,
-						"Tricky Death Note"
+						"Death Note"
 					],
 					[
 						52200,
 						13,
-						0,
-						"Tricky Death Note"
+						225,
+						"Death Note"
 					]
 				],
 				"typeOfSection": 0,
@@ -3888,25 +3888,25 @@
 						62400,
 						7,
 						0,
-						"Tricky Death Note"
+						"Death Note"
 					],
 					[
 						62775,
 						3,
 						0,
-						"Tricky Death Note"
+						"Death Note"
 					],
 					[
 						63000,
 						7,
 						0,
-						"Tricky Death Note"
+						"Death Note"
 					],
 					[
 						63450,
 						6,
 						0,
-						"Tricky Death Note"
+						"Death Note"
 					]
 				],
 				"altAnim": false,
@@ -4012,19 +4012,19 @@
 						63900,
 						5,
 						0,
-						"Tricky Death Note"
+						"Death Note"
 					],
 					[
 						64350,
 						0,
 						0,
-						"Tricky Death Note"
+						"Death Note"
 					],
 					[
 						64650,
 						6,
 						0,
-						"Tricky Death Note"
+						"Death Note"
 					]
 				],
 				"altAnim": false,
@@ -4130,19 +4130,19 @@
 						65100,
 						3,
 						0,
-						"Tricky Death Note"
+						"Death Note"
 					],
 					[
 						65400,
 						6,
 						0,
-						"Tricky Death Note"
+						"Death Note"
 					],
 					[
 						65700,
 						1,
 						0,
-						"Tricky Death Note"
+						"Death Note"
 					]
 				],
 				"altAnim": false,
@@ -4248,19 +4248,19 @@
 						66300,
 						5,
 						0,
-						"Tricky Death Note"
+						"Death Note"
 					],
 					[
 						66750,
 						6,
 						0,
-						"Tricky Death Note"
+						"Death Note"
 					],
 					[
 						67050,
 						2,
 						0,
-						"Tricky Death Note"
+						"Death Note"
 					]
 				],
 				"altAnim": false,
@@ -4366,31 +4366,31 @@
 						67275,
 						1,
 						0,
-						"Tricky Fire Note"
+						"Fire Note"
 					],
 					[
 						67500,
 						0,
 						0,
-						"Tricky Fire Note"
+						"Fire Note"
 					],
 					[
 						67725,
 						2,
 						0,
-						"Tricky Fire Note"
+						"Fire Note"
 					],
 					[
 						67950,
 						3,
 						0,
-						"Tricky Fire Note"
+						"Fire Note"
 					],
 					[
 						68175,
 						6,
 						0,
-						"Tricky Fire Note"
+						"Fire Note"
 					]
 				],
 				"altAnim": false,
@@ -4496,37 +4496,37 @@
 						68550,
 						6,
 						0,
-						"Tricky Fire Note"
+						"Fire Note"
 					],
 					[
 						68625,
 						5,
 						0,
-						"Tricky Fire Note"
+						"Fire Note"
 					],
 					[
 						68775,
 						3,
 						0,
-						"Tricky Fire Note"
+						"Fire Note"
 					],
 					[
 						68925,
 						2,
 						0,
-						"Tricky Fire Note"
+						"Fire Note"
 					],
 					[
 						69150,
 						6,
 						0,
-						"Tricky Fire Note"
+						"Fire Note"
 					],
 					[
 						69375,
 						7,
 						0,
-						"Tricky Fire Note"
+						"Fire Note"
 					]
 				],
 				"altAnim": false,
@@ -4638,37 +4638,37 @@
 						69750,
 						1,
 						0,
-						"Tricky Fire Note"
+						"Fire Note"
 					],
 					[
 						69900,
 						2,
 						0,
-						"Tricky Fire Note"
+						"Fire Note"
 					],
 					[
 						70050,
 						4,
 						0,
-						"Tricky Fire Note"
+						"Fire Note"
 					],
 					[
 						70350,
 						5,
 						0,
-						"Tricky Fire Note"
+						"Fire Note"
 					],
 					[
 						70575,
 						3,
 						0,
-						"Tricky Fire Note"
+						"Fire Note"
 					],
 					[
 						70725,
 						1,
 						0,
-						"Tricky Fire Note"
+						"Fire Note"
 					]
 				],
 				"altAnim": false,
@@ -4780,25 +4780,25 @@
 						71250,
 						3,
 						0,
-						"Tricky Fire Note"
+						"Fire Note"
 					],
 					[
 						71775,
 						2,
 						0,
-						"Tricky Fire Note"
+						"Fire Note"
 					],
 					[
 						71625,
 						7,
 						0,
-						"Tricky Fire Note"
+						"Fire Note"
 					],
 					[
 						71100,
 						8,
 						0,
-						"Tricky Fire Note"
+						"Fire Note"
 					]
 				],
 				"altAnim": false,
@@ -5098,25 +5098,25 @@
 						74700,
 						5,
 						0,
-						"Tricky Fire Note"
+						"Fire Note"
 					],
 					[
 						75000,
 						7,
 						0,
-						"Tricky Fire Note"
+						"Fire Note"
 					],
 					[
 						75150,
 						7,
 						0,
-						"Tricky Fire Note"
+						"Fire Note"
 					],
 					[
 						75375,
 						5,
 						0,
-						"Tricky Fire Note"
+						"Fire Note"
 					]
 				],
 				"altAnim": false,
@@ -5282,31 +5282,31 @@
 						75825,
 						2,
 						0,
-						"Tricky Fire Note"
+						"Fire Note"
 					],
 					[
 						75975,
 						4,
 						0,
-						"Tricky Fire Note"
+						"Fire Note"
 					],
 					[
 						76275,
 						0,
 						0,
-						"Tricky Fire Note"
+						"Fire Note"
 					],
 					[
 						76650,
 						7,
 						0,
-						"Tricky Fire Note"
+						"Fire Note"
 					],
 					[
 						76725,
 						5,
 						0,
-						"Tricky Fire Note"
+						"Fire Note"
 					]
 				],
 				"altAnim": false,
@@ -5846,13 +5846,13 @@
 						86550,
 						2,
 						0,
-						"Tricky Death Note"
+						"Death Note"
 					],
 					[
 						87000,
 						7,
 						0,
-						"Tricky Death Note"
+						"Death Note"
 					]
 				],
 				"altAnim": false,
@@ -5910,19 +5910,19 @@
 						87750,
 						5,
 						0,
-						"Tricky Death Note"
+						"Death Note"
 					],
 					[
 						88350,
 						0,
 						0,
-						"Tricky Death Note"
+						"Death Note"
 					],
 					[
 						88650,
 						6,
 						0,
-						"Tricky Death Note"
+						"Death Note"
 					]
 				],
 				"altAnim": false,
@@ -6108,19 +6108,19 @@
 						91350,
 						7,
 						0,
-						"Tricky Death Note"
+						"Death Note"
 					],
 					[
 						91725,
 						6,
 						0,
-						"Tricky Death Note"
+						"Death Note"
 					],
 					[
 						92175,
 						2,
 						0,
-						"Tricky Death Note"
+						"Death Note"
 					]
 				],
 				"altAnim": false,
@@ -6184,19 +6184,19 @@
 						92550,
 						5,
 						0,
-						"Tricky Death Note"
+						"Death Note"
 					],
 					[
 						93000,
 						3,
 						0,
-						"Tricky Death Note"
+						"Death Note"
 					],
 					[
 						93375,
 						5,
 						0,
-						"Tricky Death Note"
+						"Death Note"
 					]
 				],
 				"altAnim": false,
@@ -6466,13 +6466,13 @@
 						96300,
 						10,
 						0,
-						"Tricky Death Note"
+						"Death Note"
 					],
 					[
 						96750,
 						10,
 						0,
-						"Tricky Death Note"
+						"Death Note"
 					]
 				],
 				"altAnim": false,
@@ -6620,19 +6620,19 @@
 						97350,
 						15,
 						0,
-						"Tricky Death Note"
+						"Death Note"
 					],
 					[
 						97725,
 						17,
 						0,
-						"Tricky Death Note"
+						"Death Note"
 					],
 					[
 						98100,
 						13,
 						0,
-						"Tricky Death Note"
+						"Death Note"
 					]
 				],
 				"altAnim": false,
@@ -6750,13 +6750,13 @@
 						98700,
 						13,
 						0,
-						"Tricky Death Note"
+						"Death Note"
 					],
 					[
 						99150,
 						13,
 						0,
-						"Tricky Death Note"
+						"Death Note"
 					]
 				],
 				"altAnim": false,
@@ -6898,19 +6898,19 @@
 						99750,
 						16,
 						0,
-						"Tricky Death Note"
+						"Death Note"
 					],
 					[
 						100200,
 						14,
 						0,
-						"Tricky Death Note"
+						"Death Note"
 					],
 					[
 						100500,
 						11,
 						0,
-						"Tricky Death Note"
+						"Death Note"
 					]
 				],
 				"altAnim": false,
@@ -7940,109 +7940,109 @@
 						115875,
 						2,
 						0,
-						"Tricky Fire Note"
+						"Fire Note"
 					],
 					[
 						116025,
 						2,
 						0,
-						"Tricky Fire Note"
+						"Fire Note"
 					],
 					[
 						116175,
 						5,
 						0,
-						"Tricky Fire Note"
+						"Fire Note"
 					],
 					[
 						115200,
 						3,
 						0,
-						"Tricky Fire Note"
+						"Fire Note"
 					],
 					[
 						115200,
 						2,
 						0,
-						"Tricky Fire Note"
+						"Fire Note"
 					],
 					[
 						115200,
 						1,
 						0,
-						"Tricky Fire Note"
+						"Fire Note"
 					],
 					[
 						115200,
 						0,
 						0,
-						"Tricky Fire Note"
+						"Fire Note"
 					],
 					[
 						115200,
 						5,
 						0,
-						"Tricky Fire Note"
+						"Fire Note"
 					],
 					[
 						115200,
 						7,
 						0,
-						"Tricky Fire Note"
+						"Fire Note"
 					],
 					[
 						115200,
 						6,
 						0,
-						"Tricky Fire Note"
+						"Fire Note"
 					],
 					[
 						115200,
 						8,
 						0,
-						"Tricky Fire Note"
+						"Fire Note"
 					],
 					[
 						115650,
 						7,
 						0,
-						"Tricky Fire Note"
+						"Fire Note"
 					],
 					[
 						115800,
 						7,
 						0,
-						"Tricky Fire Note"
+						"Fire Note"
 					],
 					[
 						115950,
 						5,
 						0,
-						"Tricky Fire Note"
+						"Fire Note"
 					],
 					[
 						116325,
 						2,
 						0,
-						"Tricky Fire Note"
+						"Fire Note"
 					],
 					[
 						115575,
 						2,
 						0,
-						"Tricky Fire Note"
+						"Fire Note"
 					],
 					[
 						116250,
 						7,
 						0,
-						"Tricky Fire Note"
+						"Fire Note"
 					],
 					[
 						115425,
 						7,
 						0,
-						"Tricky Fire Note"
+						"Fire Note"
 					]
 				],
 				"altAnim": false,
@@ -8162,91 +8162,91 @@
 						118800,
 						10,
 						0,
-						"Tricky Fire Note"
+						"Fire Note"
 					],
 					[
 						118875,
 						11,
 						0,
-						"Tricky Fire Note"
+						"Fire Note"
 					],
 					[
 						118950,
 						12,
 						0,
-						"Tricky Fire Note"
+						"Fire Note"
 					],
 					[
 						119025,
 						13,
 						0,
-						"Tricky Fire Note"
+						"Fire Note"
 					],
 					[
 						119100,
 						14,
 						0,
-						"Tricky Fire Note"
+						"Fire Note"
 					],
 					[
 						119175,
 						15,
 						0,
-						"Tricky Fire Note"
+						"Fire Note"
 					],
 					[
 						119250,
 						16,
 						0,
-						"Tricky Fire Note"
+						"Fire Note"
 					],
 					[
 						119325,
 						15,
 						0,
-						"Tricky Fire Note"
+						"Fire Note"
 					],
 					[
 						119400,
 						14,
 						0,
-						"Tricky Fire Note"
+						"Fire Note"
 					],
 					[
 						119475,
 						13,
 						0,
-						"Tricky Fire Note"
+						"Fire Note"
 					],
 					[
 						119550,
 						12,
 						0,
-						"Tricky Fire Note"
+						"Fire Note"
 					],
 					[
 						119625,
 						11,
 						0,
-						"Tricky Fire Note"
+						"Fire Note"
 					],
 					[
 						119700,
 						10,
 						0,
-						"Tricky Fire Note"
+						"Fire Note"
 					],
 					[
 						119775,
 						11,
 						0,
-						"Tricky Fire Note"
+						"Fire Note"
 					],
 					[
 						119850,
 						12,
 						0,
-						"Tricky Fire Note"
+						"Fire Note"
 					]
 				],
 				"altAnim": false,
@@ -8304,19 +8304,19 @@
 						120375,
 						6,
 						0,
-						"Tricky Fire Note"
+						"Fire Note"
 					],
 					[
 						120600,
 						6,
 						0,
-						"Tricky Fire Note"
+						"Fire Note"
 					],
 					[
 						120900,
 						2,
 						0,
-						"Tricky Fire Note"
+						"Fire Note"
 					]
 				],
 				"altAnim": false,
@@ -8368,25 +8368,25 @@
 						121350,
 						11,
 						0,
-						"Tricky Fire Note"
+						"Fire Note"
 					],
 					[
 						121650,
 						13,
 						0,
-						"Tricky Fire Note"
+						"Fire Note"
 					],
 					[
 						121800,
 						14,
 						0,
-						"Tricky Fire Note"
+						"Fire Note"
 					],
 					[
 						121950,
 						15,
 						0,
-						"Tricky Fire Note"
+						"Fire Note"
 					]
 				],
 				"altAnim": false,
@@ -8462,19 +8462,19 @@
 						122550,
 						11,
 						0,
-						"Tricky Fire Note"
+						"Fire Note"
 					],
 					[
 						122775,
 						10,
 						0,
-						"Tricky Fire Note"
+						"Fire Note"
 					],
 					[
 						123150,
 						14,
 						0,
-						"Tricky Fire Note"
+						"Fire Note"
 					]
 				],
 				"altAnim": false,
@@ -9250,7 +9250,7 @@
 						136575,
 						10,
 						0,
-						"Tricky Death Note"
+						"Death Note"
 					]
 				],
 				"altAnim": false,
@@ -9604,19 +9604,19 @@
 						139350,
 						15,
 						0,
-						"Tricky Death Note"
+						"Death Note"
 					],
 					[
 						139800,
 						12,
 						0,
-						"Tricky Death Note"
+						"Death Note"
 					],
 					[
 						140250,
 						15,
 						0,
-						"Tricky Death Note"
+						"Death Note"
 					]
 				],
 				"altAnim": false,
@@ -9746,19 +9746,19 @@
 						140625,
 						13,
 						0,
-						"Tricky Death Note"
+						"Death Note"
 					],
 					[
 						140850,
 						14,
 						0,
-						"Tricky Death Note"
+						"Death Note"
 					],
 					[
 						141225,
 						11,
 						0,
-						"Tricky Death Note"
+						"Death Note"
 					]
 				],
 				"altAnim": false,
@@ -9822,19 +9822,19 @@
 						141750,
 						6,
 						0,
-						"Tricky Death Note"
+						"Death Note"
 					],
 					[
 						142125,
 						5,
 						0,
-						"Tricky Death Note"
+						"Death Note"
 					],
 					[
 						142500,
 						3,
 						0,
-						"Tricky Death Note"
+						"Death Note"
 					]
 				],
 				"altAnim": false,
@@ -9898,25 +9898,25 @@
 						142800,
 						7,
 						0,
-						"Tricky Death Note"
+						"Death Note"
 					],
 					[
 						143100,
 						5,
 						0,
-						"Tricky Death Note"
+						"Death Note"
 					],
 					[
 						143550,
 						1,
 						0,
-						"Tricky Death Note"
+						"Death Note"
 					],
 					[
 						143850,
 						5,
 						0,
-						"Tricky Death Note"
+						"Death Note"
 					]
 				],
 				"altAnim": false,
@@ -9974,13 +9974,13 @@
 						144450,
 						7,
 						0,
-						"Tricky Death Note"
+						"Death Note"
 					],
 					[
 						144825,
 						5,
 						0,
-						"Tricky Death Note"
+						"Death Note"
 					]
 				],
 				"altAnim": false,
@@ -10062,19 +10062,19 @@
 						145725,
 						4,
 						0,
-						"Tricky Death Note"
+						"Death Note"
 					],
 					[
 						145950,
 						0,
 						0,
-						"Tricky Death Note"
+						"Death Note"
 					],
 					[
 						146325,
 						4,
 						0,
-						"Tricky Death Note"
+						"Death Note"
 					]
 				],
 				"altAnim": false,
@@ -11146,13 +11146,13 @@
 						161175,
 						5,
 						0,
-						"Tricky Death Note"
+						"Death Note"
 					],
 					[
 						161550,
 						3,
 						0,
-						"Tricky Death Note"
+						"Death Note"
 					]
 				],
 				"altAnim": false,
@@ -11252,19 +11252,19 @@
 						162150,
 						6,
 						0,
-						"Tricky Death Note"
+						"Death Note"
 					],
 					[
 						162600,
 						3,
 						0,
-						"Tricky Death Note"
+						"Death Note"
 					],
 					[
 						162975,
 						5,
 						0,
-						"Tricky Death Note"
+						"Death Note"
 					]
 				],
 				"altAnim": false,
@@ -11398,19 +11398,19 @@
 						163650,
 						12,
 						0,
-						"Tricky Death Note"
+						"Death Note"
 					],
 					[
 						163725,
 						14,
 						0,
-						"Tricky Death Note"
+						"Death Note"
 					],
 					[
 						164025,
 						15,
 						0,
-						"Tricky Death Note"
+						"Death Note"
 					]
 				],
 				"typeOfSection": 0,
@@ -11536,25 +11536,25 @@
 						164550,
 						11,
 						0,
-						"Tricky Death Note"
+						"Death Note"
 					],
 					[
 						164925,
 						16,
 						0,
-						"Tricky Death Note"
+						"Death Note"
 					],
 					[
 						165225,
 						12,
 						0,
-						"Tricky Death Note"
+						"Death Note"
 					],
 					[
 						165450,
 						14,
 						0,
-						"Tricky Death Note"
+						"Death Note"
 					]
 				],
 				"altAnim": false,
@@ -11842,19 +11842,19 @@
 						170550,
 						2,
 						0,
-						"Tricky Death Note"
+						"Death Note"
 					],
 					[
 						171075,
 						6,
 						0,
-						"Tricky Death Note"
+						"Death Note"
 					],
 					[
 						171375,
 						1,
 						0,
-						"Tricky Death Note"
+						"Death Note"
 					]
 				],
 				"typeOfSection": 0,
@@ -11982,25 +11982,25 @@
 						172875,
 						4,
 						0,
-						"Tricky Death Note"
+						"Death Note"
 					],
 					[
 						173325,
 						8,
 						0,
-						"Tricky Death Note"
+						"Death Note"
 					],
 					[
 						173625,
 						5,
 						0,
-						"Tricky Death Note"
+						"Death Note"
 					],
 					[
 						173925,
 						3,
 						0,
-						"Tricky Death Note"
+						"Death Note"
 					]
 				],
 				"typeOfSection": 0,
@@ -12214,49 +12214,49 @@
 						175275,
 						10,
 						0,
-						"Tricky Death Note"
+						"Death Note"
 					],
 					[
 						175575,
 						12,
 						0,
-						"Tricky Death Note"
+						"Death Note"
 					],
 					[
 						175950,
 						16,
 						0,
-						"Tricky Death Note"
+						"Death Note"
 					],
 					[
 						175275,
 						17,
 						0,
-						"Tricky Fire Note"
+						"Fire Note"
 					],
 					[
 						175575,
 						14,
 						0,
-						"Tricky Fire Note"
+						"Fire Note"
 					],
 					[
 						175800,
 						12,
 						0,
-						"Tricky Fire Note"
+						"Fire Note"
 					],
 					[
 						176025,
 						9,
 						0,
-						"Tricky Fire Note"
+						"Fire Note"
 					],
 					[
 						176250,
 						16,
 						0,
-						"Tricky Fire Note"
+						"Fire Note"
 					]
 				],
 				"altAnim": false,
@@ -12390,43 +12390,43 @@
 						176625,
 						13,
 						0,
-						"Tricky Death Note"
+						"Death Note"
 					],
 					[
 						177000,
 						10,
 						0,
-						"Tricky Death Note"
+						"Death Note"
 					],
 					[
 						177450,
 						14,
 						0,
-						"Tricky Death Note"
+						"Death Note"
 					],
 					[
 						176550,
 						11,
 						0,
-						"Tricky Fire Note"
+						"Fire Note"
 					],
 					[
 						177000,
 						16,
 						0,
-						"Tricky Fire Note"
+						"Fire Note"
 					],
 					[
 						177150,
 						16,
 						0,
-						"Tricky Fire Note"
+						"Fire Note"
 					],
 					[
 						177375,
 						13,
 						0,
-						"Tricky Fire Note"
+						"Fire Note"
 					]
 				],
 				"typeOfSection": 0,
@@ -12580,37 +12580,37 @@
 						177825,
 						11,
 						0,
-						"Tricky Death Note"
+						"Death Note"
 					],
 					[
 						178200,
 						14,
 						0,
-						"Tricky Death Note"
+						"Death Note"
 					],
 					[
 						178725,
 						15,
 						0,
-						"Tricky Death Note"
+						"Death Note"
 					],
 					[
 						177750,
 						10,
 						0,
-						"Tricky Fire Note"
+						"Fire Note"
 					],
 					[
 						178275,
 						12,
 						0,
-						"Tricky Fire Note"
+						"Fire Note"
 					],
 					[
 						178575,
 						10,
 						0,
-						"Tricky Fire Note"
+						"Fire Note"
 					]
 				],
 				"typeOfSection": 0,
@@ -12734,31 +12734,31 @@
 						179100,
 						11,
 						0,
-						"Tricky Death Note"
+						"Death Note"
 					],
 					[
 						179625,
 						16,
 						0,
-						"Tricky Death Note"
+						"Death Note"
 					],
 					[
 						179025,
 						13,
 						0,
-						"Tricky Fire Note"
+						"Fire Note"
 					],
 					[
 						179325,
 						16,
 						0,
-						"Tricky Fire Note"
+						"Fire Note"
 					],
 					[
 						179625,
 						13,
 						0,
-						"Tricky Fire Note"
+						"Fire Note"
 					]
 				],
 				"typeOfSection": 0,
@@ -12960,37 +12960,37 @@
 						180150,
 						10,
 						0,
-						"Tricky Death Note"
+						"Death Note"
 					],
 					[
 						180750,
 						16,
 						0,
-						"Tricky Death Note"
+						"Death Note"
 					],
 					[
 						180375,
 						14,
 						0,
-						"Tricky Fire Note"
+						"Fire Note"
 					],
 					[
 						180525,
 						12,
 						0,
-						"Tricky Fire Note"
+						"Fire Note"
 					],
 					[
 						180825,
 						10,
 						0,
-						"Tricky Fire Note"
+						"Fire Note"
 					],
 					[
 						181050,
 						16,
 						0,
-						"Tricky Fire Note"
+						"Fire Note"
 					]
 				],
 				"typeOfSection": 0,
@@ -13182,37 +13182,37 @@
 						181275,
 						13,
 						0,
-						"Tricky Death Note"
+						"Death Note"
 					],
 					[
 						181650,
 						10,
 						0,
-						"Tricky Death Note"
+						"Death Note"
 					],
 					[
 						182100,
 						14,
 						0,
-						"Tricky Death Note"
+						"Death Note"
 					],
 					[
 						181575,
 						13,
 						0,
-						"Tricky Fire Note"
+						"Fire Note"
 					],
 					[
 						181950,
 						17,
 						0,
-						"Tricky Fire Note"
+						"Fire Note"
 					],
 					[
 						182250,
 						11,
 						0,
-						"Tricky Fire Note"
+						"Fire Note"
 					]
 				],
 				"altAnim": false,
@@ -13420,37 +13420,37 @@
 						182550,
 						10,
 						0,
-						"Tricky Death Note"
+						"Death Note"
 					],
 					[
 						183075,
 						15,
 						0,
-						"Tricky Death Note"
+						"Death Note"
 					],
 					[
 						182925,
 						15,
 						0,
-						"Tricky Fire Note"
+						"Fire Note"
 					],
 					[
 						183075,
 						10,
 						0,
-						"Tricky Fire Note"
+						"Fire Note"
 					],
 					[
 						183300,
 						10,
 						0,
-						"Tricky Fire Note"
+						"Fire Note"
 					],
 					[
 						183450,
 						15,
 						0,
-						"Tricky Fire Note"
+						"Fire Note"
 					]
 				],
 				"altAnim": false,
@@ -13638,37 +13638,37 @@
 						183675,
 						10,
 						0,
-						"Tricky Death Note"
+						"Death Note"
 					],
 					[
 						184275,
 						16,
 						0,
-						"Tricky Death Note"
+						"Death Note"
 					],
 					[
 						184650,
 						12,
 						0,
-						"Tricky Death Note"
+						"Death Note"
 					],
 					[
 						183750,
 						13,
 						0,
-						"Tricky Fire Note"
+						"Fire Note"
 					],
 					[
 						184050,
 						10,
 						0,
-						"Tricky Fire Note"
+						"Fire Note"
 					],
 					[
 						184350,
 						14,
 						0,
-						"Tricky Fire Note"
+						"Fire Note"
 					]
 				],
 				"typeOfSection": 0,
@@ -14748,19 +14748,19 @@
 						194625,
 						15,
 						0,
-						"Tricky Death Note"
+						"Death Note"
 					],
 					[
 						195000,
 						16,
 						0,
-						"Tricky Death Note"
+						"Death Note"
 					],
 					[
 						195375,
 						12,
 						0,
-						"Tricky Death Note"
+						"Death Note"
 					]
 				],
 				"typeOfSection": 0,
@@ -14872,13 +14872,13 @@
 						195900,
 						10,
 						0,
-						"Tricky Death Note"
+						"Death Note"
 					],
 					[
 						196425,
 						15,
 						0,
-						"Tricky Death Note"
+						"Death Note"
 					]
 				],
 				"typeOfSection": 0,
@@ -14978,19 +14978,19 @@
 						196950,
 						10,
 						0,
-						"Tricky Death Note"
+						"Death Note"
 					],
 					[
 						197550,
 						13,
 						0,
-						"Tricky Death Note"
+						"Death Note"
 					],
 					[
 						197850,
 						15,
 						0,
-						"Tricky Death Note"
+						"Death Note"
 					]
 				],
 				"typeOfSection": 0,
@@ -15090,19 +15090,19 @@
 						198150,
 						12,
 						0,
-						"Tricky Death Note"
+						"Death Note"
 					],
 					[
 						198675,
 						14,
 						0,
-						"Tricky Death Note"
+						"Death Note"
 					],
 					[
 						199050,
 						10,
 						0,
-						"Tricky Death Note"
+						"Death Note"
 					]
 				],
 				"typeOfSection": 0,
@@ -15262,13 +15262,13 @@
 						199575,
 						10,
 						0,
-						"Tricky Death Note"
+						"Death Note"
 					],
 					[
 						199950,
 						16,
 						0,
-						"Tricky Death Note"
+						"Death Note"
 					]
 				],
 				"typeOfSection": 0,
@@ -15452,13 +15452,13 @@
 						200625,
 						14,
 						0,
-						"Tricky Death Note"
+						"Death Note"
 					],
 					[
 						201150,
 						17,
 						0,
-						"Tricky Death Note"
+						"Death Note"
 					]
 				],
 				"typeOfSection": 0,
@@ -15606,13 +15606,13 @@
 						201750,
 						10,
 						0,
-						"Tricky Death Note"
+						"Death Note"
 					],
 					[
 						202275,
 						11,
 						0,
-						"Tricky Death Note"
+						"Death Note"
 					]
 				],
 				"typeOfSection": 0,
@@ -15724,19 +15724,19 @@
 						202950,
 						14,
 						0,
-						"Tricky Death Note"
+						"Death Note"
 					],
 					[
 						203400,
 						9,
-						0,
-						"Tricky Death Note"
+						225,
+						"Death Note"
 					],
 					[
 						203700,
 						15,
-						0,
-						"Tricky Death Note"
+						225,
+						"Death Note"
 					]
 				],
 				"typeOfSection": 0,
@@ -16620,25 +16620,25 @@
 						208800,
 						0,
 						0,
-						"Tricky Death Note"
+						"Death Note"
 					],
 					[
 						208800,
 						1,
 						0,
-						"Tricky Death Note"
+						"Death Note"
 					],
 					[
 						208800,
 						7,
 						0,
-						"Tricky Death Note"
+						"Death Note"
 					],
 					[
 						208800,
 						8,
 						0,
-						"Tricky Death Note"
+						"Death Note"
 					]
 				],
 				"typeOfSection": 0,
@@ -16750,19 +16750,19 @@
 						210000,
 						0,
 						0,
-						"Tricky Death Note"
+						"Death Note"
 					],
 					[
 						210000,
 						4,
 						0,
-						"Tricky Death Note"
+						"Death Note"
 					],
 					[
 						210000,
 						8,
 						0,
-						"Tricky Death Note"
+						"Death Note"
 					]
 				],
 				"typeOfSection": 0,
@@ -16874,19 +16874,19 @@
 						211200,
 						0,
 						0,
-						"Tricky Death Note"
+						"Death Note"
 					],
 					[
 						211200,
 						8,
 						0,
-						"Tricky Death Note"
+						"Death Note"
 					],
 					[
 						211200,
 						4,
 						0,
-						"Tricky Death Note"
+						"Death Note"
 					]
 				],
 				"typeOfSection": 0,
@@ -16986,13 +16986,13 @@
 						212400,
 						0,
 						0,
-						"Tricky Death Note"
+						"Death Note"
 					],
 					[
 						212400,
 						8,
 						0,
-						"Tricky Death Note"
+						"Death Note"
 					]
 				],
 				"typeOfSection": 0,
@@ -17038,25 +17038,25 @@
 						213600,
 						1,
 						0,
-						"Tricky Death Note"
+						"Death Note"
 					],
 					[
 						213600,
 						2,
 						0,
-						"Tricky Death Note"
+						"Death Note"
 					],
 					[
 						213600,
 						6,
 						0,
-						"Tricky Death Note"
+						"Death Note"
 					],
 					[
 						213600,
 						7,
 						0,
-						"Tricky Death Note"
+						"Death Note"
 					]
 				],
 				"typeOfSection": 0,
