@@ -1,0 +1,5 @@
+mods/data/cheating-extrakeys/cheating-extrakeys.json
+mods/songs/cheating-extrakeys/Voices.ogg
+mods/songs/cheating-extrakeys/Inst.ogg
+mods/songs/cheating-extrakeys/voices.ogg
+mods/songs/cheating-extrakeys/inst.ogg

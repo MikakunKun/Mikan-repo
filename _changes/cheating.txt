@@ -1,6 +1,4 @@
-mods/data/cheating/cheating-hell.json
 mods/data/cheating/cheating.json
-mods/data/cheating/events.json
 mods/songs/cheating/Voices.ogg
 mods/songs/cheating/Inst.ogg
 mods/songs/cheating/voices.ogg
