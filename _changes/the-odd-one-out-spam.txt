@@ -1,0 +1,5 @@
+mods/data/the-odd-one-out-spam/the-odd-one-out-spam-9k.json
+mods/songs/the-odd-one-out-spam/Voices.ogg
+mods/songs/the-odd-one-out-spam/Inst.ogg
+mods/songs/the-odd-one-out-spam/voices.ogg
+mods/songs/the-odd-one-out-spam/inst.ogg
