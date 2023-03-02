@@ -1,0 +1,5 @@
+mods/data/tsunami-erect/tsunami-erect.json
+mods/songs/tsunami-erect/Voices.ogg
+mods/songs/tsunami-erect/Inst.ogg
+mods/songs/tsunami-erect/voices.ogg
+mods/songs/tsunami-erect/inst.ogg
